@@ -1,0 +1,15 @@
+name: ZenithSpawners
+author: Stellrow
+version: 1.0
+api-version: 1.13
+main: me.Stellrow.ZenithSpawners.ZenithSpawners
+
+softdepend: [Vault]
+
+commands:
+  zenithspawners:
+    usage: /zenithspawners
+    description: Main Zenith Spawners commands
+  zs:
+    usage: /zs
+    description: Short version of main command

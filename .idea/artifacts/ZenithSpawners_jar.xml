@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZenithSpawners:jar">
+    <output-path>$USER_HOME$/Desktop/D/Default paper/1.15 paper/plugins</output-path>
+    <root id="archive" name="ZenithSpawners.jar">
+      <element id="module-output" name="ZenithSpawners" />
+    </root>
+  </artifact>
+</component>

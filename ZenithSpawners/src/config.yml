@@ -1,0 +1,123 @@
+General:
+  canMineWithSilkTouch: true
+  maxStackSize: 500
+  keepStackingMobs: true
+  killAllMobsAtOnce: true
+OneByOneKills:
+  alwaysDropAmount: false
+  looting2: 2
+  looting3: 3
+  looting4: 4
+
+Messages:
+  placeSpawner: '&7You placed a &6%type spawner!'
+SpawnerTierDrop:
+  CHICKEN:
+    Tier1: FEATHER
+    Tier2: COOKED_CHICKEN
+  COW:
+    Tier1: LEATHER
+    Tier2: COOKED_BEEF
+  PIG:
+    Tier1: PORKCHOP
+    Tier2: COOKED_PORKCHOP
+  SHEEP:
+    Tier1: WHITE_WOOL
+    Tier2: STRING
+  IRON_GOLEM:
+    Tier1: IRON_INGOT
+    Tier2: GOLD_INGOT
+  CAVE_SPIDER:
+    Tier1: STRING
+    Tier2: SPIDER_EYE
+  SPIDER:
+    Tier1: STRING
+    Tier2: SPIDER_EYE
+  ENDERMAN:
+    Tier1: ENDER_PEARL
+    Tier2: ENDER_CHEST
+  PIG_ZOMBIE:
+    Tier1: GOLD_NUGGET
+    Tier2: GOLD_INGOT
+  BLAZE:
+    Tier1: BLAZE_POWDER
+    Tier2: BLAZE_ROD
+  CREEPER:
+    Tier1: GUNPOWDER
+    Tier2: TNT
+  SKELETON:
+    Tier1: BONE
+    Tier2: ARROW
+  WITCH:
+    Tier1: GLOWSTONE
+    Tier2: NETHER_WART
+  WITHER_SKELETON:
+    Tier1: SOUL_SAND
+    Tier2: WITHER_ROSE
+  ZOMBIE:
+    Tier1: DIAMOND
+    Tier2: ROTTEN_FLESH
+  GHAST:
+    Tier1: GUNPOWDER
+    Tier2: GHAST_TEAR
+  HORSE:
+    Tier1: LEATHER
+    Tier2: GOLDEN_CARROT
+  SLIME:
+    Tier1: SLIME_BALL
+    Tier2: SLIME_BALL
+SpawnerUpgradePrice:
+  CHICKEN:
+    Tier2: 15000
+    Tier3: 25000
+  COW:
+    Tier2: 25000
+    Tier3: 30000
+  PIG:
+    Tier2: 15000
+    Tier3: 25000
+  SHEEP:
+    Tier2: 15000
+    Tier3: 25000
+  IRON_GOLEM:
+    Tier2: 50000
+    Tier3: 100000
+  CAVE_SPIDER:
+    Tier2: 20000
+    Tier3: 45000
+  SPIDER:
+    Tier2: 20000
+    Tier3: 45000
+  ENDERMAN:
+    Tier2: 35000
+    Tier3: 60000
+  PIG_ZOMBIE:
+    Tier2: 40000
+    Tier3: 70000
+  BLAZE:
+    Tier2: 50000
+    Tier3: 100000
+  CREEPER:
+    Tier2: 50000
+    Tier3: 100000
+  SKELETON:
+    Tier2: 35000
+    Tier3: 70000
+  WITCH:
+    Tier2: 40000
+    Tier3: 70000
+  WITHER_SKELETON:
+    Tier2: 50000
+    Tier3: 80000
+  ZOMBIE:
+    Tier2: 35000
+    Tier3: 70000
+  GHAST:
+    Tier2: 80000
+    Tier3: 150000
+  HORSE:
+    Tier2: 50000
+    Tier3: 100000
+  SLIME:
+    Tier2: 80000
+    Tier3: 100000

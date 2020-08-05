@@ -10,3 +10,5 @@ Features
 - Fully customizable options for stacking,both spawners and all entities will stach each other,either on location or chunk.
 - Fully customizable upgrade options,allowing you to change both the xp and the money needed to upgrade.
 - Modify the entity behaviour,change the ai,or the health it spawns with!
+- Fully functional hologram system using HolographicDisplaysAPI,with functional inside timer/option to turn off
+- Unique GUI allowing you to fully acces/upgrade or check the spawners value
